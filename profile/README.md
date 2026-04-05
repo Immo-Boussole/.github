@@ -1,6 +1,6 @@
 # 🧭 Immo-Boussole
 
-[🇫🇷 Version française](README.fr.md)
+[🇫🇷 Version française](/profile/README.fr.md)
 
 **Your compass to navigate the real estate jungle together!**
 
