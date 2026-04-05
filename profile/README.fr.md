@@ -1,6 +1,6 @@
 # 🧭 Immo-Boussole
 
-[🇬🇧 English version](README.md)
+[🇬🇧 English version](profile/README.md)
 
 **Ta boussole pour naviguer ensemble dans la jungle immobilière !**
 
