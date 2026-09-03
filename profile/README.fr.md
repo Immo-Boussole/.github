@@ -4,7 +4,7 @@
 
 **Ta boussole pour naviguer ensemble dans la jungle immobilière !**
 
-![Immo-Boussole - Tableau de bord](https://raw.githubusercontent.com/Immo-Boussole/Immo-Boussole/main/static/media/demo/exemple_tableaudebord.png)
+![Immo-Boussole - Tableau de bord](https://raw.githubusercontent.com/Immo-Boussole/Immo-Boussole/main/static/media/demo/demo_dashboard_enhanced.png)
 
 ## 💡 Pourquoi Immo-Boussole ?
 Trouver le bien idéal relève parfois du parcours du combattant : annonces dispersées, informations incomplètes, avis subjectifs… **Immo-Boussole** est une application collaborative qui t’aide à :
