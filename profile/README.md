@@ -4,7 +4,7 @@
 
 **Your compass to navigate the real estate jungle together!**
 
-![Immo-Boussole - Dashboard](https://raw.githubusercontent.com/Immo-Boussole/Immo-Boussole/main/static/media/demo/exemple_tableaudebord.png)
+![Immo-Boussole - Dashboard](https://raw.githubusercontent.com/Immo-Boussole/Immo-Boussole/main/static/media/demo/demo_dashboard_enhanced.png)
 
 ## 💡 Why Immo-Boussole?
 Finding the ideal property is a real challenge: scattered listings, incomplete information, subjective opinions… **Immo-Boussole** is a collaborative app that helps you:
